@@ -198,17 +198,17 @@ menu:
     main: []
 
     social:
-        # - identifier: github
-        #   name: GitHub
-        #   url: https://github.com/CaiJimmy/hugo-theme-stack
-        #   params:
-        #       icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com/tanukisekiii
+        - identifier: github
+          name: GitHub
+          url: https://github.com/yiranlll/
           params:
-              icon: brand-twitter
+              icon: brand-github
+
+        # - identifier: twitter
+        #   name: Twitter
+        #   url: https://twitter.com/tanukisekiii
+        #   params:
+        #       icon: brand-twitter
 
 related:
     includeNewer: true
