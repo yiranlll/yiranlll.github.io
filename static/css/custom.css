@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Clear Han Serif";
+    src: url("data\fonts\屏显臻宋.ttf")
+}
+
+.clear_han_seif {
+    font-family: "Clear Han Serif", serif;
+}
